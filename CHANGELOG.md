@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.30.10](https://www.github.com/googleapis/google-api-java-client/compare/v1.30.9...v1.30.10) (2020-03-05)
+
+
+### Dependencies
+
+* update oauth client ([#1499](https://www.github.com/googleapis/google-api-java-client/issues/1499)) ([b9c222c](https://www.github.com/googleapis/google-api-java-client/commit/b9c222cfdc4578dabca48cfbe64068f4f70d3b18))
+
 ### [1.30.9](https://www.github.com/googleapis/google-api-java-client/compare/v1.30.8...v1.30.9) (2020-02-18)
 
 
